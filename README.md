@@ -18,6 +18,16 @@ Equip yourself with the power of all useful knowledge through LLM.
 
 
 
+# API
+
+- [kkkunny/free-llm-collect: 搜集免费的LLM（大语言模型）API（GPT、Claude、BingCopilot、Llama、Gemini）](https://github.com/kkkunny/free-llm-collect)
+- [OpenRouter](https://openrouter.ai/)
+  - 可以通过free 搜索，或升序选择便宜的模式：[Models: 'free' | OpenRouter](https://openrouter.ai/models?order=pricing-low-to-high&q=free)
+
+- https://ai.google.dev/gemini-api/  Google 为所有开发者提供了 Gemini 的免费调用方式：只要频率不高于每分钟 15 次即可——对于 AI 辅助编程而言足矣。
+
+
+
 # 提示词
 
 来自 @欲买桂花同载酒：
@@ -162,7 +172,7 @@ copilot 配置rule：
 
 [Tips & Tricks for GitHub Copilot Chat in Visual Studio - Visual Studio (Windows) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/ide/copilot-chat-context?view=vs-2022#prompting-guidance)
 
-- 项目文件夹下创建 `.github/copilot-instruction.md`
+- 项目文件夹下创建 `.github/copilot-instructions.md`
 - Enable the feature in Visual Studio via **Tools** > **Options** > **GitHub** > **Copilot** > select **(Preview) Enable custom instructions to be loaded from .github/copilot-instructions.md files and added to requests.**
 
 
@@ -179,6 +189,12 @@ copilot 配置rule：
 - 培养同理心：让 LLM 更具人性化视角，从而生成更具情感共鸣的回应。
 
 使用 "超级提示词" 的步骤非常简单：在需要发散思维或创造力的任务中，先输入 "超级提示词" 给 LLM。然后提出相关问题，LLM 会在提示词的引导下给出更深入、更抽象的回答。也可以通过构建 GPT 环境，持续发问，让 LLM 不断产生创意十足的回答。
+
+
+
+# 其他项目
+
+[Webioinfo01/easyLLM: Local deployed storm.](https://github.com/Webioinfo01/easyLLM)
 
 
 
