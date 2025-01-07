@@ -7,7 +7,7 @@ Equip yourself with the power of all useful knowledge through LLM.
 一些工具路线实现对话并关联项目文件与LLM 交互：
 - cursor/windsurf
 - vscode + copilot 自带gpt4o,o1 preview, sonnet （edu 邮箱免费使用）
-- vscode + roc line + 各种LLM（deepseek..）（OpenRoute 或gemini flash API 免费）
+- vscode + roo cline + 各种LLM（deepseek..）（OpenRoute 或gemini flash API 免费）
 
 
 
