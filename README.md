@@ -15,6 +15,8 @@ Equip yourself with the power of all useful knowledge through LLM.
 
 - 更好的让大模型阅读项目文件结构 [Repo Prompt](https://repoprompt.com/)；
 - github 代码总结大师 [Gitingest](https://gitingest.com/)；
+- 大模型RPA [browser-use/browser-use: Make websites accessible for AI agents](https://github.com/browser-use/browser-use)；
+- 大模型综述生成器 [stanford-oval/storm: An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.](https://github.com/stanford-oval/storm)；
 
 
 
