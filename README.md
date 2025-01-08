@@ -192,6 +192,14 @@ copilot 配置rule：
 
 
 
+# 学习库
+
+- LLM 生物医学相关文章
+
+[aristoteleo/awesome-papers-on-biological-agent-models: This repo collects all latest research on agent system for biological studies](https://github.com/aristoteleo/awesome-papers-on-biological-agent-models)
+
+
+
 # 其他项目
 
 [Webioinfo01/easyLLM: Local deployed storm.](https://github.com/Webioinfo01/easyLLM)
