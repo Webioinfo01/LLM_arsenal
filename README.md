@@ -130,9 +130,12 @@ Fine-tune:
 - [ChatGPT](https://chatgpt.com/)
 - [Claude](https://claude.ai/)
 - [Gemini](https://gemini.google.com/)
+- [Models · GitHub Marketplace](https://github.com/marketplace/models)
+  - free mainstream llm include gpt, dsr1
+  - many extensions and useful apps
+
 - [copilot.microsoft.com](https://copilot.microsoft.com/)
 - [New Chat - Poe](https://poe.com/ChatGPT), collection.
-  
 - Chinese:
   - [DeepSeek - Exploring the Unknown](https://chat.deepseek.com/)
   - [Kimi.ai - Helping you see a bigger world](https://kimi.moonshot.cn/)
