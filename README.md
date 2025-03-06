@@ -131,9 +131,24 @@ Fine-tune:
 
 # Useful GPT Platforms
 
+thinking model:
+
+- [ChatGPT](https://chatgpt.com/) o3
+- [DeepSeek - Exploring the Unknown](https://chat.deepseek.com/) r1
+- [Kimi.ai - Helping you see a bigger world](https://kimi.moonshot.cn/) thinking 1.5
+- [GROK](https://grok.com/)  think3
+- [Gemini](https://gemini.google.com/) flash thinking
+- [QWEN](https://chat.qwen.ai/) QwQ32
+
+
+
+Others:
+
 - [ChatGPT](https://chatgpt.com/)
 - [Claude](https://claude.ai/)
 - [Gemini](https://gemini.google.com/)
+- [GROK](https://grok.com/) 
+- [Perplexity](https://www.perplexity.ai/) , search version of o3 and dsR1
 - [Models · GitHub Marketplace](https://github.com/marketplace/models)
   - free mainstream llm include gpt, dsr1
   - many extensions and useful apps
@@ -143,6 +158,8 @@ Fine-tune:
 - Chinese:
   - [DeepSeek - Exploring the Unknown](https://chat.deepseek.com/)
   - [Kimi.ai - Helping you see a bigger world](https://kimi.moonshot.cn/)
+  - [QWEN](https://chat.qwen.ai/)
+  - [腾讯元宝 - 轻松工作 多点生活](https://yuanbao.tencent.com/chat/naQivTmsDa), hunyuan + dsr1
 
 Additionally, [Untitled prompt | Google AI Studio](https://aistudio.google.com/prompts/new_chat) provides system instructions, temperature adjustment, multimodal tools, etc.:
 
