@@ -34,9 +34,13 @@ ps: gitingest and repomix are similar and better to use locally.
 
 
 
-# 2. automation 
+# 2. agent 
 
-## Tools
+
+
+## Scientist/automation
+
+- [实测 Manus：首个真干活 AI，中国造（附50个用例 + 拆解）](https://mp.weixin.qq.com/s/PpGA-1IBch1DQUEsNaTn-Q)
 
 - Large model RPA [browser-use/browser-use: Make websites accessible for AI agents](https://github.com/browser-use/browser-use);
 - [Review of the most expensive AI programming tool, seeing the future of coders【First on the internet】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FP6RYcEeV/) :  [Devin](https://devin.ai/)
@@ -47,9 +51,24 @@ ps: gitingest and repomix are similar and better to use locally.
 
 
 
+
+
 ## Paper 
 
 - [论文解读 | OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use_智能体_OSAgentSurvey_InfoQ写作社区](https://xie.infoq.cn/article/aaf820b94dfbea285b09ac50b)
+
+
+
+## Build
+
+- [Quick Start | MetaGPT](https://docs.deepwisdom.ai/v0.7/zh/guide/get_started/quickstart.html) Create multi-agent integration tools.
+- [Dify.AI · The Innovation Engine for Generative AI Applications](https://dify.ai/)
+
+- [camel-ai/camel: 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org](https://github.com/camel-ai/camel)
+
+
+
+[主流Agent框架2024盘点: LangGraph、CrewAI、AutoGen、Dify、MetaGPT、OmAgent深度横评](https://www.msn.cn/zh-cn/news/other/主流agent框架2024盘点-langgraph-crewai-autogen-dify-metagpt-omagent深度横评/ar-BB1rfHWQ?ocid=BingNewsSerp)
 
 
 
@@ -73,24 +92,7 @@ Key considerations:
 
 
 
-# 4. Agent
-
-
-
-## Tools
-
-- [Quick Start | MetaGPT](https://docs.deepwisdom.ai/v0.7/zh/guide/get_started/quickstart.html) Create multi-agent integration tools.
-- [Dify.AI · The Innovation Engine for Generative AI Applications](https://dify.ai/)
-
-- [camel-ai/camel: 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org](https://github.com/camel-ai/camel)
-
-
-
-[主流Agent框架2024盘点: LangGraph、CrewAI、AutoGen、Dify、MetaGPT、OmAgent深度横评](https://www.msn.cn/zh-cn/news/other/主流agent框架2024盘点-langgraph-crewai-autogen-dify-metagpt-omagent深度横评/ar-BB1rfHWQ?ocid=BingNewsSerp)
-
-
-
-# 5. Bio
+# 4. Bio
 
 [NBT｜BioChatter：为生物医学量身定制的开源大语言模型应用平台](https://mp.weixin.qq.com/s/53QbAs_epRc3XfB7debs2w)
 
