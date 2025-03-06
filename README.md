@@ -1,4 +1,4 @@
-# LLM_arsenal
+# LLM is all you need
 Equip yourself with the power of all useful knowledge through LLM.
 
 Some specific scenarios are marked with numbers. General content is not marked.
@@ -10,19 +10,21 @@ Some specific scenarios are marked with numbers. General content is not marked.
 ## Useful combination
 
 Some tool approaches to achieve dialogue and associate project files with LLM interaction:
-- cursor/windsurf
+- cursor/windsurf/Trae(free👍)
 - vscode + copilot with built-in gpt4o, o1 preview, sonnet (free for edu email)
 - vscode + roo cline + various LLMs (deepseek...) (OpenRoute or gemini flash API for free)
 
 
 
-## Tools
+## Tools/tricks
 
 - Better project file structure reading for large models [Repo Prompt](https://repoprompt.com/);
 - [yamadashy/repomix: 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.](https://github.com/yamadashy/repomix) 
 - GitHub code summarization master [Gitingest](https://gitingest.com/);
 
-ps: gitingest and repomix are similar and better to use locally.
+ps: gitingest and repomix are similar and better to use locally which gitingest is friendly to python.
+
+- [DeepClaude](https://deepclaude.com/)
 
 
 
@@ -30,7 +32,6 @@ ps: gitingest and repomix are similar and better to use locally.
 
 - [bolt.new](https://bolt.new/) Web tool development.
 - [HeyBoss - Build app & sites in minutes](https://www.heyboss.xyz/)
-- 
 
 
 
@@ -49,7 +50,8 @@ ps: gitingest and repomix are similar and better to use locally.
 
 - [GAIR-NLP/PC-Agent: PC Agent: While You Sleep, AI Works - A Cognitive Journey into Digital World](https://github.com/GAIR-NLP/PC-Agent)
 
-
+- [SakanaAI/AI-Scientist: The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬](https://github.com/SakanaAI/AI-Scientist)
+- [Agent Laboratory](https://agentlaboratory.github.io/)
 
 
 
