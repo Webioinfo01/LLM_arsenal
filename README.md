@@ -167,13 +167,28 @@ Additionally, [Untitled prompt | Google AI Studio](https://aistudio.google.com/p
 
 Currently, it is completely free. It even offers free fine-tuning tools.
 
-# Free APIs
+# LLM API provider
 
+## General API provider
 - [kkkunny/free-llm-collect: Collects free LLM (Large Language Model) APIs (GPT, Claude, BingCopilot, Llama, Gemini)](https://github.com/kkkunny/free-llm-collect)
-- [OpenRouter](https://openrouter.ai/)
-  - You can search for free models or sort by price: [Models: 'free' | OpenRouter](https://openrouter.ai/models?order=pricing-low-to-high&q=free)
-
+- You can search for free models or sort by price: [Models: 'free' | OpenRouter](https://openrouter.ai/models?order=pricing-low-to-high&q=free)
 - https://ai.google.dev/gemini-api/ Google provides free access to Gemini for all developers: as long as the frequency does not exceed 15 times per minute—sufficient for AI-assisted programming.
+- OpenRouter: https://openrouter.ai/ ,  provider open , closed or free LLMs
+- siliconflow； https://siliconflow.cn/ , provides many open source LLMs
+- volcengine: https://www.volcengine.com/ , provides multiple open source LLMs
+- fireworks: https://fireworks.ai/models , provides multiple open source LLMs
+- huggingface: https://huggingface.co/docs/api-inference/getting-started , provides many open source LLMs
+- together: https://www.together.ai/models , provides many open source LLMs
+- sambanova: https://docs.sambanova.ai/cloud/docs/get-started/supported-models, provides many open source LLMs
+- groq: https://console.groq.com/docs/models, provides multiple open source LLMs
+- deepinfra: https://deepinfra.com/models ,  provides multiple open source LLMs
+- [azure](https://azure.microsoft.com/en-us/products/ai-model-catalog#Models)
+- aliyun: https://www.modelscope.cn/models
+- 
+## Online search API provider
+- perplexity: https://docs.perplexity.ai/guides/model-cards
+- exa: https://exa.ai/
+- jina: https://jina.ai/
 
 # Prompts
 
