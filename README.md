@@ -184,7 +184,8 @@ Currently, it is completely free. It even offers free fine-tuning tools.
 - deepinfra: https://deepinfra.com/models ,  provides multiple open source LLMs
 - [azure](https://azure.microsoft.com/en-us/products/ai-model-catalog#Models)
 - aliyun: https://www.modelscope.cn/models
-- 
+- PPIO: https://ppinfra.com/user
+- gitee AI: https://ai.gitee.com/models
 ## Online search API provider
 - perplexity: https://docs.perplexity.ai/guides/model-cards
 - exa: https://exa.ai/
