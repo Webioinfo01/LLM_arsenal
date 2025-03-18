@@ -186,7 +186,9 @@ Currently, it is completely free. It even offers free fine-tuning tools.
 
 # LLM API provider
 
-[LLM Leaderboard - Compare GPT-4o, Llama 3, Mistral, Gemini & other models | Artificial Analysis](https://artificialanalysis.ai/leaderboards/models)
+- [LLM Leaderboard - Compare GPT-4o, Llama 3, Mistral, Gemini & other models | Artificial Analysis](https://artificialanalysis.ai/leaderboards/models)
+
+quite good to check price.
 
 
 
