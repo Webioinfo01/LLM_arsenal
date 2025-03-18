@@ -182,25 +182,13 @@ Additionally, [Untitled prompt | Google AI Studio](https://aistudio.google.com/p
 
 Currently, it is completely free. It even offers free fine-tuning tools.
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-# LLM API provider
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 
+
+# LLM API provider
 
 [LLM Leaderboard - Compare GPT-4o, Llama 3, Mistral, Gemini & other models | Artificial Analysis](https://artificialanalysis.ai/leaderboards/models)
 
-quite good to check price.
 
-
-
-# Free APIs
->>>>>>> Stashed changes
 
 ## General API provider
 - [kkkunny/free-llm-collect: Collects free LLM (Large Language Model) APIs (GPT, Claude, BingCopilot, Llama, Gemini)](https://github.com/kkkunny/free-llm-collect)
@@ -219,10 +207,16 @@ quite good to check price.
 - aliyun: https://www.modelscope.cn/models
 - PPIO: https://ppinfra.com/user
 - gitee AI: https://ai.gitee.com/models
+
+
+
 ## Online search API provider
+
 - perplexity: https://docs.perplexity.ai/guides/model-cards
 - exa: https://exa.ai/
 - jina: https://jina.ai/
+
+
 
 # Prompts
 
