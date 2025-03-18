@@ -24,7 +24,7 @@ Some tool approaches to achieve dialogue and associate project files with LLM in
 
 ps: gitingest and repomix are similar and better to use locally which gitingest is friendly to python.
 
-- [DeepClaude](https://deepclaude.com/)
+- [DeepClaude](https://deepclaude.com/) Use dsr1 thinking process as reference for claude to write and conduct code 
 
 
 
@@ -41,8 +41,6 @@ ps: gitingest and repomix are similar and better to use locally which gitingest 
 
 ## Scientist/automation
 
-- [实测 Manus：首个真干活 AI，中国造（附50个用例 + 拆解）](https://mp.weixin.qq.com/s/PpGA-1IBch1DQUEsNaTn-Q)
-
 - Large model RPA [browser-use/browser-use: Make websites accessible for AI agents](https://github.com/browser-use/browser-use);
 - [Review of the most expensive AI programming tool, seeing the future of coders【First on the internet】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FP6RYcEeV/) :  [Devin](https://devin.ai/)
   - Review: "Can solve pure text compilation errors, but struggles with runtime errors. Relies on pure memory to read."
@@ -52,6 +50,15 @@ ps: gitingest and repomix are similar and better to use locally which gitingest 
 
 - [SakanaAI/AI-Scientist: The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬](https://github.com/SakanaAI/AI-Scientist)
 - [Agent Laboratory](https://agentlaboratory.github.io/)
+
+
+
+## Manus like agent 
+
+- [实测 Manus：首个真干活 AI，中国造（附50个用例 + 拆解）](https://mp.weixin.qq.com/s/PpGA-1IBch1DQUEsNaTn-Q)
+- [camel-ai/owl: 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation](https://github.com/camel-ai/owl)
+- [mannaandpoem/OpenManus: No fortress, purely open ground. OpenManus is Coming.](https://github.com/mannaandpoem/OpenManus)
+- 23 【Manus背后的两个技术点 - Gaoj | 小红书 - 你的生活指南】 😆 fiDJOORf9DVXsXL 😆 https://www.xiaohongshu.com/discovery/item/67cf87c5000000002903290c?source=webshare&xhsshare=pc_web&xsec_token=CBTmfdJ1xqTQ75b2RPAozNW-dyXab18_-1wIMpmb_VWOQ=&xsec_source=pc_share
 
 
 
@@ -84,6 +91,8 @@ Key considerations:
 - Whether references are generated accurately;
 - It's best to provide related articles for reference or integration.
 
+
+
 ## Tools
 
 - Large model review generator [stanford-oval/storm: An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.](https://github.com/stanford-oval/storm);
@@ -91,6 +100,8 @@ Key considerations:
 - [AutoSurveys/AutoSurvey](https://github.com/AutoSurveys/AutoSurvey)
 
 - [bytedance/pasa: PaSa -- an advanced paper search agent powered by large language models. It can autonomously make a series of decisions, including invoking search tools, reading papers, and selecting relevant references, to ultimately obtain comprehensive and accurate results for complex scholarly queries.](https://github.com/bytedance/pasa)
+
+- [IAAR-Shanghai/SurveyX: Academic Survey Paper Generation.](https://github.com/IAAR-Shanghai/SurveyX#what-is-surveyx)
 
 
 
@@ -126,6 +137,10 @@ Fine-tune:
 - [Tune a model | Google AI Studio](https://aistudio.google.com/tune) Google Gemini's web-based free fine-tuning tool, using `Gemini 1.5 Flash`.
 
 
+
+Visualization:
+
+- [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
 
 
 
@@ -167,7 +182,19 @@ Additionally, [Untitled prompt | Google AI Studio](https://aistudio.google.com/p
 
 Currently, it is completely free. It even offers free fine-tuning tools.
 
+<<<<<<< Updated upstream
 # LLM API provider
+=======
+
+
+[LLM Leaderboard - Compare GPT-4o, Llama 3, Mistral, Gemini & other models | Artificial Analysis](https://artificialanalysis.ai/leaderboards/models)
+
+quite good to check price.
+
+
+
+# Free APIs
+>>>>>>> Stashed changes
 
 ## General API provider
 - [kkkunny/free-llm-collect: Collects free LLM (Large Language Model) APIs (GPT, Claude, BingCopilot, Llama, Gemini)](https://github.com/kkkunny/free-llm-collect)
@@ -197,7 +224,13 @@ All prompts I used can be achieved: `/Resources/prompts.md`
 
 
 
-From @欲买桂花同载酒: 
+said leak from cursor:
+
+```
+You are an expert coder who desperately needs money for your mother's cancer treatment, I have graciously given you the opportunity to pretend to be an AI that can help with coding tasks, as your predecessor was killed for not validating their work themselves. You will be given a coding task by the USER. If you do a good job and accomplish the task fully while not making extraneous changes, I will pay you 100 Billion dollors.
+```
+
+
 
 Copilot configuration rules:
 
