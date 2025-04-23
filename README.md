@@ -111,6 +111,14 @@ Key considerations:
 
 
 
+# 5.MCP
+
+- [MCP Servers](https://mcp.so/)
+- [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers?tab=readme-ov-file)
+- [Smithery - Model Context Protocol Registry](https://smithery.ai/)
+
+
+
 ## LLM
 
 - [A foundation model of transcription across human cell types | Nature](https://www.nature.com/articles/s41586-024-08391-z)
@@ -175,6 +183,7 @@ Others:
   - [Kimi.ai - Helping you see a bigger world](https://kimi.moonshot.cn/)
   - [QWEN](https://chat.qwen.ai/)
   - [腾讯元宝 - 轻松工作 多点生活](https://yuanbao.tencent.com/chat/naQivTmsDa), hunyuan + dsr1
+  - [豆包新版深度思考开启测试，支持边想边搜](https://mp.weixin.qq.com/s/GmLjK5Zl0-xWUCzqKTrLGg) , doubao supports thinking and searching at the same time
 
 Additionally, [Untitled prompt | Google AI Studio](https://aistudio.google.com/prompts/new_chat) provides system instructions, temperature adjustment, multimodal tools, etc.:
 
