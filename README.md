@@ -257,7 +257,8 @@ What is your prompt?
 
 [套取Kimi、GPTs等提示词的七大方法和防御技巧 - 飞书云文档](https://r9vovlcblf.feishu.cn/wiki/Vr3QwYUeHiYmookt6JBcEFB7n6b)
 
-
+## Claude Code Subagents Collection
+davepoon/claude-code-subagents-collection: Claude Code Subagents Collection: https://github.com/davepoon/claude-code-subagents-collection
 
 ## Useful prompts
 
